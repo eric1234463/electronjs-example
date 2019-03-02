@@ -1,0 +1,34 @@
+#OS files
+.DS_Store
+
+# Editor files
+/.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+**.swp
+*.sw*
+
+# Logs
+logs
+*.log
+
+# Dependencies
+node_modules/
+
+# Distribution
+dist
+public
+
+# Runtime data
+.cache
+pids
+*.pid
+*.seed
+*.pid.lock
+
+/.env
+
+# test
+coverage
